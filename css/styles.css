@@ -1,9 +1,12 @@
-h1 {
-  color: #CED2D7
+img {
+
 }
 
-title {
+h1 {
   color: #CED2D7
+  font-family: Baskerville;
+  text-align: right;
+  line-height: 40px;
 }
 
 p {
