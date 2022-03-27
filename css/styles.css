@@ -1,22 +1,21 @@
-img {
-
+body {
+  background: black
 }
 
 h1 {
   color: #CED2D7
-  font-family: sans-serif;
   text-align: right;
-  line-height: 40px;
 }
 
-p {
-  color: white
+h2 {
+  color: #CED2D7;
+  text-align: left;
 }
 
-ul {
-  color: white
+.white {
+  color: white;
 }
 
-ol {
-  color: white
+.red {
+  color: red;
 }
